@@ -1,0 +1,19 @@
+h1 {
+    font-family: arial;
+    text-align: center;
+  }
+
+h2 {
+    font-weight:normal;
+    text-align:center;
+}
+
+div {
+    width: 50%;
+    text-align:center;
+
+}
+
+img {
+    border: 10px solid blue;
+}
